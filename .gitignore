@@ -1,1 +1,6 @@
 .DS_Store
+
+# משתני סביבה — סודות, לא להעלות ל-git
+.env
+.env.local
+.env.*.local
